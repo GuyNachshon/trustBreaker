@@ -24,6 +24,7 @@ This step will add fake commits between 01/01/22 to current date to the project.
 
 ### Step 3: SPOOF ACHIEVEMENTS
 currently not working - will add fake achievements to the user's profile.
+you are more then welcome to try and fix it.
 
 ### Step 4: FAKE PROFILE STATS
 This step will add fake profile stats to the user's profile.
